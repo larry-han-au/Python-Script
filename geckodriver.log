@@ -1,0 +1,1362 @@
+1490747936512	geckodriver	INFO	Listening on 127.0.0.1:59960
+1490747937743	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.to6F09DDEJKu
+1490747937744	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490747937765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59973
+1490747939052	Marionette	INFO	Listening on port 59973
+1490747939479	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 11:39:01.298 plugin-container[86453:635707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 11:39:01.299 plugin-container[86453:635707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490748520411	geckodriver	INFO	Listening on 127.0.0.1:60347
+1490748521589	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.bcQxUMsjHjfh
+1490748521591	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490748521595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60360
+1490748522721	Marionette	INFO	Listening on port 60360
+1490748523134	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 11:48:44.938 plugin-container[87126:642612] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 11:48:44.939 plugin-container[87126:642612] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490749369375	geckodriver	INFO	Listening on 127.0.0.1:60522
+1490749370541	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.V6xCJQ891eyy
+1490749370543	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490749370546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60536
+1490749371758	Marionette	INFO	Listening on port 60536
+1490749372388	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:02:54.187 plugin-container[87926:649294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:02:54.188 plugin-container[87926:649294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750201341	geckodriver	INFO	Listening on 127.0.0.1:60661
+1490750202482	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.2dQPKa1O9OPy
+1490750202484	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750202487	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60674
+1490750203563	Marionette	INFO	Listening on port 60674
+1490750203977	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:16:45.846 plugin-container[88641:655124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:16:45.847 plugin-container[88641:655124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750233821	geckodriver	INFO	Listening on 127.0.0.1:60728
+1490750234962	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.mAmBRPXbuPou
+1490750234963	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750234966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60741
+1490750236087	Marionette	INFO	Listening on port 60741
+1490750236475	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:17:18.086 plugin-container[88686:655708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:17:18.087 plugin-container[88686:655708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750322106	geckodriver	INFO	Listening on 127.0.0.1:60808
+1490750323277	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.ckdmK0Uy6WGS
+1490750323279	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750323282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60821
+1490750324433	Marionette	INFO	Listening on port 60821
+1490750324931	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:18:46.888 plugin-container[88783:656697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:18:46.889 plugin-container[88783:656697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750410309	geckodriver	INFO	Listening on 127.0.0.1:60887
+1490750411461	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.6e75ZIXFIUPd
+1490750411462	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750411465	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60900
+1490750412586	Marionette	INFO	Listening on port 60900
+1490750413011	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:20:14.675 plugin-container[88880:657704] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:20:14.676 plugin-container[88880:657704] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750459855	geckodriver	INFO	Listening on 127.0.0.1:60956
+1490750460995	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.XqaJz6jfauHY
+1490750460997	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750460999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60969
+1490750462114	Marionette	INFO	Listening on port 60969
+1490750462530	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:21:04.581 plugin-container[88939:658380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:21:04.582 plugin-container[88939:658380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750523468	geckodriver	INFO	Listening on 127.0.0.1:61038
+1490750524563	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.qSWPxSYMq2B2
+1490750524565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750524572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61053
+1490750525523	Marionette	INFO	Listening on port 61053
+1490750525985	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:22:07.521 plugin-container[89013:659233] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:22:07.522 plugin-container[89013:659233] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750561980	geckodriver	INFO	Listening on 127.0.0.1:61112
+1490750563086	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.PHwukN0Eiv9b
+1490750563087	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750563090	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61125
+1490750564156	Marionette	INFO	Listening on port 61125
+1490750564613	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:22:46.246 plugin-container[89063:659822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:22:46.247 plugin-container[89063:659822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750676049	geckodriver	INFO	Listening on 127.0.0.1:61223
+1490750677143	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.rikqM4K25coL
+1490750677144	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750677146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61236
+1490750678200	Marionette	INFO	Listening on port 61236
+1490750678610	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:24:40.187 plugin-container[89189:661320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:24:40.188 plugin-container[89189:661320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750819329	geckodriver	INFO	Listening on 127.0.0.1:61321
+1490750820415	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.2VCVU1U1BPWW
+1490750820416	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750820419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61334
+1490750821398	Marionette	INFO	Listening on port 61334
+1490750821783	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:27:03.350 plugin-container[89345:663020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:27:03.351 plugin-container[89345:663020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750880509	geckodriver	INFO	Listening on 127.0.0.1:61429
+1490750881672	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.Pa99KtL23PPt
+1490750881673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750881676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61442
+1490750882903	Marionette	INFO	Listening on port 61442
+1490750883377	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:28:05.151 plugin-container[89424:664079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:28:05.152 plugin-container[89424:664079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490750909644	geckodriver	INFO	Listening on 127.0.0.1:61512
+1490750910790	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.9tUG0LwCVbaW
+1490750910791	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490750910794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61525
+1490750911920	Marionette	INFO	Listening on port 61525
+1490750912388	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:28:33.974 plugin-container[89465:664599] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:28:33.975 plugin-container[89465:664599] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+2017-03-29 12:31:18.486 plugin-container[89619:665912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:31:18.487 plugin-container[89619:665912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:31:22.482 plugin-container[89626:666045] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:31:22.483 plugin-container[89626:666045] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490751351682	geckodriver	INFO	Listening on 127.0.0.1:61640
+1490751352854	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.w8Di7spbPLBE
+1490751352856	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490751352861	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61653
+1490751353942	Marionette	INFO	Listening on port 61653
+1490751354356	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 12:35:56.026 plugin-container[89888:668344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 12:35:56.027 plugin-container[89888:668344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-03-29 13:00:16.264 plugin-container[95610:690190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:00:16.267 plugin-container[95610:690190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490752907919	geckodriver	INFO	Listening on 127.0.0.1:62088
+1490752909304	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.hrDXh2p3Ne6p
+1490752909306	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490752909312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62101
+1490752911246	Marionette	INFO	Listening on port 62101
+1490752912028	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:01:55.118 plugin-container[96436:692306] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x952f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:01:55.126 plugin-container[96436:692306] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+2017-03-29 13:03:32.823 plugin-container[98290:696032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:03:32.824 plugin-container[98290:696032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490753328451	geckodriver	INFO	Listening on 127.0.0.1:62258
+1490753333007	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.RAWavRkLrtIX
+1490753333010	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490753333016	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62268
+1490753335246	Marionette	INFO	Listening on port 62268
+1490753336101	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:08:59.261 plugin-container[1967:704438] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:08:59.262 plugin-container[1967:704438] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+2017-03-29 13:12:20.776 plugin-container[4318:709747] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:12:20.777 plugin-container[4318:709747] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490753546959	geckodriver	INFO	Listening on 127.0.0.1:62375
+1490753548338	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.R9udN4kLa4Cb
+1490753548340	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490753548346	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62388
+1490753550026	Marionette	INFO	Listening on port 62388
+1490753550803	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:12:33.531 plugin-container[4344:710035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:12:33.532 plugin-container[4344:710035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://common.hjfile.cn/r?site/js/hjbase.v2.js,site/js/complex.js,site/js/hjpassport2014.js,site/js/floatToolsets.js,js/jquery.qrcode.min.js,site/js/jquery.bxslider.min.js,js/hj-plugins.js,site/js/courseRecommend.js,site/js/everyoneStudy.js,site/js/hj-st.js,site/js/TopBanner-v2.0.js,site/js/flash.js,site/js/index.js,site/js/articleYellowTag.js,site/js/template.js,site/js/ruanwenguanli.js,site/js/detailv2.js,site/js/keywordForLink.js,site/js/detailv2_review.js,site/js/articleAudioHide.js?53aa0278be06a6de26518eaba1fc155b.js, line 102: unreachable code after return statement
+JavaScript warning: https://common.hjfile.cn/r?site/js/hjbase.v2.js,site/js/complex.js,site/js/hjpassport2014.js,site/js/floatToolsets.js,js/jquery.qrcode.min.js,site/js/jquery.bxslider.min.js,js/hj-plugins.js,site/js/courseRecommend.js,site/js/everyoneStudy.js,site/js/hj-st.js,site/js/TopBanner-v2.0.js,site/js/flash.js,site/js/index.js,site/js/articleYellowTag.js,site/js/template.js,site/js/ruanwenguanli.js,site/js/detailv2.js,site/js/keywordForLink.js,site/js/detailv2_review.js,site/js/articleAudioHide.js?53aa0278be06a6de26518eaba1fc155b.js, line 102: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_fronts/inspector.js 829 WalkerFront<.getMutations</<
+_/Promise-backend.js 932 Handler.prototype.process
+_/Promise-backend.js 813 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 747 this.PromiseWalker.scheduleWalkerLoop/<
+
+1490754529899	geckodriver	INFO	Listening on 127.0.0.1:62977
+1490754531064	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.mQ99EsUTwYMv
+1490754531066	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490754531071	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62990
+1490754533771	Marionette	INFO	Listening on port 62990
+1490754534664	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:28:58.055 plugin-container[6436:722781] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:28:58.056 plugin-container[6436:722781] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490754615077	geckodriver	INFO	Listening on 127.0.0.1:63102
+1490754617232	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.ailHxNczTdyb
+1490754617235	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490754617241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63115
+1490754625423	Marionette	INFO	Listening on port 63115
+1490754628726	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:30:45.187 plugin-container[6747:725074] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:30:45.196 plugin-container[6747:725074] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490755911980	geckodriver	INFO	Listening on 127.0.0.1:63807
+1490755913168	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.TReLqwCLsVbe
+1490755913171	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490755913175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63820
+1490755914188	Marionette	INFO	Listening on port 63820
+1490755914598	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:51:56.252 plugin-container[12968:750432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:51:56.253 plugin-container[12968:750432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490756051673	geckodriver	INFO	Listening on 127.0.0.1:63887
+1490756052818	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.9hoGYxnyszjD
+1490756052819	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490756052822	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63900
+1490756053962	Marionette	INFO	Listening on port 63900
+1490756054429	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 13:54:16.125 plugin-container[13051:751598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 13:54:16.126 plugin-container[13051:751598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+2017-03-29 14:02:06.878 plugin-container[13368:754942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:02:06.879 plugin-container[13368:754942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-03-29 14:24:30.826 plugin-container[19785:782568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:24:30.828 plugin-container[19785:782568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490758052949	geckodriver	INFO	Listening on 127.0.0.1:64556
+1490758054136	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.sZvm0WLEGAnh
+1490758054138	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490758054141	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64569
+1490758055170	Marionette	INFO	Listening on port 64569
+1490758055758	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 14:27:37.514 plugin-container[20018:784896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x932f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:27:37.516 plugin-container[20018:784896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490758313329	geckodriver	INFO	Listening on 127.0.0.1:64676
+1490758314491	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.u4mtg0NfF6bb
+1490758314493	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490758314496	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64689
+1490758315656	Marionette	INFO	Listening on port 64689
+1490758316144	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 14:31:57.906 plugin-container[20248:786872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:31:57.908 plugin-container[20248:786872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: chrome://browser/content/content.js, line 113: TypeError: doc is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490758715559	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758715566	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758720444	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758720893	Marionette	INFO	Listening on port 64569
+2017-03-29 14:38:42.552 plugin-container[20594:789984] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:38:42.553 plugin-container[20594:789984] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490758734051	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758734054	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758740877	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1490758741314	Marionette	INFO	Listening on port 64569
+2017-03-29 14:39:03.013 plugin-container[20616:790366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:39:03.014 plugin-container[20616:790366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+1490759082330	geckodriver	INFO	Listening on 127.0.0.1:64884
+1490759083490	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.h2W7FGv1NT0x
+1490759083491	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490759083494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64897
+1490759084604	Marionette	INFO	Listening on port 64897
+1490759085161	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 14:44:47.331 plugin-container[20942:793367] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:44:47.331 plugin-container[20942:793367] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490759643222	geckodriver	INFO	Listening on 127.0.0.1:64997
+1490759644379	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.AKKvYUc7uEKH
+1490759644380	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490759644383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65010
+1490759645383	Marionette	INFO	Listening on port 65010
+1490759645810	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 14:54:07.419 plugin-container[21422:797370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:54:07.420 plugin-container[21422:797370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490759897000	geckodriver	INFO	Listening on 127.0.0.1:65092
+1490759898153	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.ZQFG058ZQrvp
+1490759898154	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490759898157	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65105
+1490759899203	Marionette	INFO	Listening on port 65105
+1490759899627	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 14:58:21.317 plugin-container[21666:799603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 14:58:21.318 plugin-container[21666:799603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires y-flip.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires y-flip.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires y-flip.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12834900614524327214/scripts/twgl-full.min.js, line 68: Error: WebGL: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: http://img.sedoparking.com/js/jquery-1.4.2.min.js, line 1: unreachable code after return statement
+1490766423534	geckodriver	INFO	Listening on 127.0.0.1:50917
+1490766424732	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.ZphzYhwiYzWi
+1490766424733	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490766424787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50930
+1490766426202	Marionette	INFO	Listening on port 50930
+1490766426775	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 16:47:08.549 plugin-container[26748:850039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:47:08.553 plugin-container[26748:850039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490766641720	geckodriver	INFO	Listening on 127.0.0.1:51020
+1490766642866	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.XXjcJhyU2047
+1490766642867	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490766642870	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51033
+1490766643945	Marionette	INFO	Listening on port 51033
+1490766644382	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 16:50:46.219 plugin-container[26968:852065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:50:46.224 plugin-container[26968:852065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+2017-03-29 16:53:37.910 plugin-container[27136:853717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:53:37.914 plugin-container[27136:853717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490766908719	geckodriver	INFO	Listening on 127.0.0.1:51204
+1490766909820	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.e9uIaLmN8U0o
+1490766909822	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490766909824	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51217
+1490766910747	Marionette	INFO	Listening on port 51217
+1490766911165	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 16:55:12.739 plugin-container[27285:855061] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:55:12.744 plugin-container[27285:855061] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767026162	geckodriver	INFO	Listening on 127.0.0.1:51292
+1490767027315	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.eYHBlB2qE7RL
+1490767027317	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767027320	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51305
+1490767028478	Marionette	INFO	Listening on port 51305
+1490767029043	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 16:57:10.835 plugin-container[27409:856292] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:57:10.836 plugin-container[27409:856292] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767067071	geckodriver	INFO	Listening on 127.0.0.1:51371
+1490767068181	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.FYDsi3M8a9ki
+1490767068182	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767068189	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51384
+1490767069106	Marionette	INFO	Listening on port 51384
+1490767069516	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 16:57:51.140 plugin-container[27461:856868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 16:57:51.141 plugin-container[27461:856868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767280925	geckodriver	INFO	Listening on 127.0.0.1:51488
+1490767282097	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.Yy7IYjm19HAT
+1490767282098	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767282102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51501
+1490767283215	Marionette	INFO	Listening on port 51501
+1490767283808	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:01:25.741 plugin-container[27740:859490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9533, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:01:25.745 plugin-container[27740:859490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767330809	geckodriver	INFO	Listening on 127.0.0.1:51576
+1490767331944	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.ri0pR6vhssbT
+1490767331946	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767331949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51593
+1490767333108	Marionette	INFO	Listening on port 51593
+1490767333560	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:02:15.608 plugin-container[27804:860234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:02:15.614 plugin-container[27804:860234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 27804] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1490767646793	geckodriver	INFO	Listening on 127.0.0.1:51934
+1490767647956	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.PHScXZvEegFA
+1490767647957	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767647960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51947
+1490767648961	Marionette	INFO	Listening on port 51947
+1490767649471	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:07:31.133 plugin-container[28084:862712] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:07:31.137 plugin-container[28084:862712] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767825204	geckodriver	INFO	Listening on 127.0.0.1:52045
+1490767826362	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.mBqSJYjZDmov
+1490767826364	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767826368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52058
+1490767827460	Marionette	INFO	Listening on port 52058
+1490767827914	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:10:29.925 plugin-container[28247:864147] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x932f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:10:29.930 plugin-container[28247:864147] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767873377	geckodriver	INFO	Listening on 127.0.0.1:52119
+1490767874541	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.FjJlqjmR0HHv
+1490767874543	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767874545	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52132
+1490767875577	Marionette	INFO	Listening on port 52132
+1490767875989	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:11:17.830 plugin-container[28308:864772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:11:17.836 plugin-container[28308:864772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767906652	geckodriver	INFO	Listening on 127.0.0.1:52203
+1490767907815	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.A9WPwqdxJceY
+1490767907817	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767907820	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52216
+1490767908966	Marionette	INFO	Listening on port 52216
+1490767909413	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:11:51.160 plugin-container[28355:865242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:11:51.164 plugin-container[28355:865242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767923886	geckodriver	INFO	Listening on 127.0.0.1:52280
+1490767925036	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.Awf7uyooR6q1
+1490767925040	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767925043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52293
+1490767926114	Marionette	INFO	Listening on port 52293
+1490767926559	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:12:08.244 plugin-container[28382:865606] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:12:08.245 plugin-container[28382:865606] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490767950375	geckodriver	INFO	Listening on 127.0.0.1:52358
+1490767951532	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.BVWnrprLCR5V
+1490767951533	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490767951536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52371
+1490767952605	Marionette	INFO	Listening on port 52371
+1490767952990	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:12:34.760 plugin-container[28420:866030] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:12:34.767 plugin-container[28420:866030] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1490768491517	geckodriver	INFO	Listening on 127.0.0.1:52670
+1490768492670	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.t3dftfgC8nm9
+1490768492672	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490768492674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52683
+1490768493792	Marionette	INFO	Listening on port 52683
+1490768494222	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:21:35.946 plugin-container[28904:870104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:21:35.951 plugin-container[28904:870104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490768579539	geckodriver	INFO	Listening on 127.0.0.1:52749
+1490768580687	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.pbeQDDFFPDL7
+1490768580689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490768580691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52762
+1490768581706	Marionette	INFO	Listening on port 52762
+1490768582118	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:23:03.779 plugin-container[29003:871060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:23:03.784 plugin-container[29003:871060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490768635172	geckodriver	INFO	Listening on 127.0.0.1:52827
+1490768636257	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.WgLQjifdlzGN
+1490768636259	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490768636261	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52840
+1490768637196	Marionette	INFO	Listening on port 52840
+1490768637648	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:23:59.300 plugin-container[29074:871894] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:23:59.305 plugin-container[29074:871894] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490768643487	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490768726671	geckodriver	INFO	Listening on 127.0.0.1:52907
+1490768727750	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.RdRz4xZzbytE
+1490768727751	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490768727759	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52920
+1490768728639	Marionette	INFO	Listening on port 52920
+1490768729043	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:25:30.606 plugin-container[29169:872782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:25:30.610 plugin-container[29169:872782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490768779669	geckodriver	INFO	Listening on 127.0.0.1:52976
+1490768780753	mozprofile::profile	INFO	Using profile path /var/folders/rs/_4kzw8qn6yj111w6wytvqpn80000gr/T/rust_mozprofile.SAaw68EDtJ4p
+1490768780754	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490768780761	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52989
+1490768781661	Marionette	INFO	Listening on port 52989
+1490768782076	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-29 17:26:23.679 plugin-container[29235:873456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:26:23.684 plugin-container[29235:873456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-03-29 17:35:04.089 plugin-container[29732:878071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:35:04.093 plugin-container[29732:878071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:36:16.747 plugin-container[29788:878999] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-29 17:36:16.751 plugin-container[29788:878999] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1490773439079	geckodriver	INFO	Listening on 127.0.0.1:51257
+1490773440198	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.Gfv70I0N4tkI
+1490773440199	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490773440214	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51266
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490773444689 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490773444717 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+1490774151257	geckodriver	INFO	Listening on 127.0.0.1:51469
+1490774152314	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.bF0DqHTmzYrX
+1490774152315	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774152318	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51478
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774156221 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774156249 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/animationinspector/utils.js, line 82: IndexSizeError: Index or size is negative or greater than the allowed amount
+1490774311421	geckodriver	INFO	Listening on 127.0.0.1:51559
+1490774312478	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.hQczclJ71Btm
+1490774312479	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774312482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51568
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774316391 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774316420 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1490774389053	geckodriver	INFO	Listening on 127.0.0.1:51630
+1490774390107	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.ti5QC3hYNWmF
+1490774390108	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774390113	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51640
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774394077 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774394113 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774426126	geckodriver	INFO	Listening on 127.0.0.1:51686
+1490774427181	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.ieXCi0bZuhEy
+1490774427182	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774427186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51695
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774441722 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774441750 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774456435	geckodriver	INFO	Listening on 127.0.0.1:51733
+1490774457488	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.pzLRQ4L8t2Cs
+1490774457489	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774457494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51742
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774461506 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774461534 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: resource://gre/modules/PopupNotifications.jsm, line 556: TypeError: this.panel.hidePopup is not a function
+1490774525445	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: chrome://browser/content/browser.xul, line 1: ReferenceError: Firebug is not defined
+JavaScript error: chrome://browser/content/browser.xul, line 1: ReferenceError: Firebug is not defined
+JavaScript error: resource://gre/modules/PopupNotifications.jsm, line 556: TypeError: this.panel.hidePopup is not a function
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1490774592800	geckodriver	INFO	Listening on 127.0.0.1:51844
+1490774593854	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.wxbWOkpZwBJy
+1490774593855	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774593860	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51853
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774597742 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774597779 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774617804	geckodriver	INFO	Listening on 127.0.0.1:51890
+1490774618859	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.UgJ508qBJX5Q
+1490774618860	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774618865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774623149 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774623176 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.warn: Asynchronous operation was aborted as selection changed.
+1490774877066	geckodriver	INFO	Listening on 127.0.0.1:52012
+1490774878119	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.qAXSyZ8FbQxv
+1490774878120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774878126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52021
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774882032 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774882060 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774916778	geckodriver	INFO	Listening on 127.0.0.1:52064
+1490774917834	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.SVGgEYOqZAuc
+1490774917835	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774917839	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52073
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774921770 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774921798 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.highlighter29
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774950480	geckodriver	INFO	Listening on 127.0.0.1:52125
+1490774951531	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.qsZjJlgK4W4i
+1490774951532	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490774951536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52134
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490774955137 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490774955174 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+1490775047046	addons.productaddons	WARN	File download failed: 0x804b001e
+1490775120891	geckodriver	INFO	Listening on 127.0.0.1:52212
+1490775121948	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.o1Gz0RMvnKIV
+1490775121949	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775121954	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52221
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775126101 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775126130 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775191853	geckodriver	INFO	Listening on 127.0.0.1:52269
+1490775192911	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.QcnJRZXfUzUq
+1490775192912	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775192918	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52278
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775196952 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775196989 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775203294	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490775226532	geckodriver	INFO	Listening on 127.0.0.1:52328
+1490775227588	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.B15BHrwoY4z6
+1490775227589	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775227593	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52337
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775231626 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775231663 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+1490775401526	geckodriver	INFO	Listening on 127.0.0.1:52397
+1490775402580	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.K42RSwn2MlBq
+1490775402581	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775402583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52406
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775406523 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775406553 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.highlighter29
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+1490775518859	geckodriver	INFO	Listening on 127.0.0.1:52464
+1490775519913	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.Y7N7NtaZSKyh
+1490775519914	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775519919	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52473
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775523887 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775523913 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+1490775636642	geckodriver	INFO	Listening on 127.0.0.1:52527
+1490775637697	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.K5GbrciwxLql
+1490775637698	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775637704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52536
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1490775641625 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775641650 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.trace: 
+_actors/inspector.js 3565 exports.WalkerFront<.getMutations</<
+_/Promise-backend.js 933 Handler.prototype.process
+_/Promise-backend.js 812 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 746 this.PromiseWalker.scheduleWalkerLoop/<
+
+console.trace: 
+_actors/inspector.js 3565 exports.WalkerFront<.getMutations</<
+_/Promise-backend.js 933 Handler.prototype.process
+_/Promise-backend.js 812 this.PromiseWalker.walkerLoop
+_/Promise-backend.js 746 this.PromiseWalker.scheduleWalkerLoop/<
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+1490775920011	geckodriver	INFO	Listening on 127.0.0.1:52654
+1490775921065	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.3bzBspyOqDpd
+1490775921066	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775921072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52663
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775925244 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775925273 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775945885	geckodriver	INFO	Listening on 127.0.0.1:52712
+1490775946941	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.54CKVD7ynqML
+1490775946942	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490775946946	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52721
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775950917 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490775950945 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490775961314 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+1490776142252	geckodriver	INFO	Listening on 127.0.0.1:52840
+1490776143304	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.4fv6nR3pLQ8o
+1490776143305	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490776143309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52849
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.highlighter29
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776147574 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490776147611 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776157969 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+1490776256273	geckodriver	INFO	Listening on 127.0.0.1:52930
+1490776257328	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.WfiwujVzAvIL
+1490776257329	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490776257333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52939
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776261460 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490776261488 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776271842 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: Asynchronous operation was aborted as selection changed.
+1490776366378	geckodriver	INFO	Listening on 127.0.0.1:52995
+1490776367435	mozprofile::profile	INFO	Using profile path /var/folders/5t/_6dvkq7958s0fjcq94ks6djw0000gn/T/rust_mozprofile.JLG3jOd3Xgxy
+1490776367436	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490776367440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53004
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776371306 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1490776371334 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1490776381692 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www8.pearsonvue.com/webresources/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
